@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 # 🌊 Vibe Coding Portfolio
@@ -38,8 +37,6 @@ To get a local copy up and running, follow these simple steps.
 1. **Clone the repo**
    ```sh
    git clone [https://github.com/imranbru99/vibe-coding-portfolio-website.git](https://github.com/imranbru99/vibe-coding-portfolio-website.git)
-
-```
 
 2. **Navigate into the directory**
 ```sh
